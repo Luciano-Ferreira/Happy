@@ -1,0 +1,9 @@
+[submodule "Happy-ReactJS"]
+	path = Happy-ReactJS
+	url = git@github.com:Luciano-Ferreira/Happy-ReactJS.git
+[submodule "Happy-Mobile"]
+	path = Happy-Mobile
+	url = git@github.com:Luciano-Ferreira/Happy-Mobile.git
+[submodule "Happy-backend"]
+	path = Happy-backend
+	url = git@github.com:Luciano-Ferreira/Happy-backend.git
