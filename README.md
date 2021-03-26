@@ -14,15 +14,11 @@
 - [React Native](https://reactnative.dev/)
 
 
-=======
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/Luciano-Ferreira/Proffy/blob/main/LICENSE) for more information.
 
 ---
 
-<<<<<<< HEAD
-Made with ♥ by Luciano Silva :wave: [Get in touch!](https://www.linkedin.com/in/lucianof-silva/)
-=======
 Made with ♥ by Luciano Silva :wave: [Get in touch!](https://www.linkedin.com/in/lucianof-silva/)
 =======
 
