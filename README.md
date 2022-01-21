@@ -7,6 +7,8 @@
     <img src="./assets/readmehappyreactjs.gif">
 </p>
 
+       Developed on ubuntu 20.04
+
 ## Tecnologies :rocket: 
 
 - [NodeJS](https://nodejs.org/en/)
